@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.tmp
+*.vtfopt.tmp
+publish/
+dist/
+*.zip

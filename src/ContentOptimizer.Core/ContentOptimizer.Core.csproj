@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ContentOptimizer.Core</RootNamespace>
+    <AssemblyName>ContentOptimizer.Core</AssemblyName>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>vtfopt</AssemblyName>
+    <RootNamespace>ContentOptimizer.Cli</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ContentOptimizer.Core\ContentOptimizer.Core.csproj" />
+  </ItemGroup>
+</Project>
